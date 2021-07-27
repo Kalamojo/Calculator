@@ -1,0 +1,8 @@
+#interface {
+    display: flex;
+    justify-content: space-around;
+}
+.operators {
+    flex: 1 1 auto;
+    background-color: grey;
+}
