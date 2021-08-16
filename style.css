@@ -54,6 +54,10 @@
     justify-content: space-around;
     align-items: center;
 }
+#col4 button {
+    padding-top: 1.2vh;
+    padding-bottom: 1.2vh;
+}
 
 button {
     font-size: 7vh;
