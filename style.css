@@ -59,10 +59,26 @@
     padding-bottom: 1.2vh;
 }
 
+.operator:nth-child(1) {
+    background-color: #97c596;
+}
+.operator:nth-child(2) {
+    background-color: #d57bc0;
+}
+.operator:nth-child(3) {
+    background-color: #86d4e4;
+}
+.operator:nth-child(4) {
+    background-color: #4b42de;
+}
+#equals {
+    background-color: #ef8a73;
+}
+
 button {
     font-size: 7vh;
-    padding-left: 8vw;
-    padding-right: 8vw;
+    padding-left: 7vw;
+    padding-right: 7vw;
     padding-top: 2vh;
     padding-bottom: 2vh;
 }
